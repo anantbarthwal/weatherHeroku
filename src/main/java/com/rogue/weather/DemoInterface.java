@@ -1,3 +1,6 @@
+/**
+ * copy right
+ */
 package com.rogue.weather;
 
 import org.springframework.web.bind.annotation.GetMapping;
